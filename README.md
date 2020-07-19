@@ -16,6 +16,7 @@ However, I cannot guarantee that it will work perfectly for your device. But if 
 download it and try it out, I would greatly appreciate it! If you find any bugs or have a
 question/suggestion, you can email me at karpenko.ryan@gmail.com. 
 
+DOWNLOAD:
 To download the app on your phone:
 (This is based on my experience installing the app on a Pixel 3a)
 
