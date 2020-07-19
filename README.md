@@ -21,13 +21,21 @@ To download the app on your phone:
 (This is based on my experience installing the app on a Pixel 3a)
 
 From your phone web browser, click on the ez-rank-debug-x.x.apk file inside this repository, then download it.
+
 Here is the link in case you can't find it: https://github.com/ryankarpenko/EZ-Rank/blob/master/ez-rank-debug-0.1.apk
+
 When you open the file, you will be prompted to change your settings for installing unknown apps.
+
 When you select "Settings" from this warning, you will be taken to an app permissions screen. For me it was permissions for Chrome.
+
 Change the permissions setting to "Yes" (or activate the toggle).
+
 Go to your files on your phone, and find the recently downloaded .apk file.
+
 Open it, and you will be prompted to install the app.
+
 You may have to pass one final warning, after which your phone will download the app.
+
 Enjoy!
 
 
