@@ -17,6 +17,8 @@ Additionally, EZ-Rank should not cause any harm to your phone or its data, as it
 
 If you find any bugs or have a question/suggestion, you can email me at karpenko.ryan@gmail.com. 
 
+-------------------------------------------------------------------------------------------------
+
 INSTRUCTIONS TO DOWNLOAD:
 
 (This is based on my experience installing the app on a Pixel 3a)
