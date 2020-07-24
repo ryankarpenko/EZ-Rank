@@ -4,6 +4,12 @@ Android app where you can easily rank your favorite movies, music, or anything e
 Currently in beta form, so testing is ongoing and there are almost certainly bugs,
 which may depend on which model of phone you are using.
 
+<p>
+<img src="https://github.com/ryankarpenko/EZ-Rank/blob/master/screenshots/main_screen.png?raw=true" alt="Ranking Screen" width="300"/>
+<img src="https://github.com/ryankarpenko/EZ-Rank/blob/master/screenshots/ranking_screen.png?raw=true" alt="Ranking Screen" width="300"/>
+<img src="https://github.com/ryankarpenko/EZ-Rank/blob/master/screenshots/change_icon_screen.png?raw=true" alt="Change Icon Screen" width="300"/>
+</p>
+
 -------------------------------------------------------------------------------------------------
 
 WARNING:
